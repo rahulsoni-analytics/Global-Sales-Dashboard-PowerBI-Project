@@ -3,9 +3,11 @@
 
 # Global_Sales_Profit_Dashboard
 ## 📊 Project Overview
-This project analyzes Motorola’s India-wide sales performance using Power BI.
-The dashboard highlights key metrics such as revenue, quantity sold, product-wise
-performance, regional trends, and monthly sales growth.
+Developed an interactive Power BI dashboard analyzing 119M+ total sales, 17M+ profit, and over 1M units sold. 
+
+Performed product-wise, country-wise, and discount analysis to identify top-performing products, high-revenue regions, and key business trends. 
+
+Enabled data-driven decision making by uncovering insights on sales performance, cost trends, and profit contribution across different segments.
 
 ## 🔧 Tools Used
 - Power BI
